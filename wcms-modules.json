@@ -1,7 +1,7 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "wcms-small": {
             "name": "Wcms-small",
             "repo": "https://github.com/Phemisters/wcms-small/tree/main",
             "zip": "https://github.com/Phemisters/wcms-small/archive/main.zip",
