@@ -45,7 +45,7 @@
 					<ul class="menu">
 						<!-- Menu -->
 						<?= $Wcms->menu() ?>
-
+            <?= $Wcms->search() ?>
 					</ul>
 				</nav>
 			</div>
