@@ -556,7 +556,7 @@ input::-moz-focus-inner {
 		content: ''
 	}
 
-  .table-noborder table,td,th {
+  .table-noborder table,tr,td,th {
     border: none;
   }
 
