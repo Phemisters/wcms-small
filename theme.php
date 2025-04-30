@@ -66,7 +66,6 @@
 				<!-- Footer -->
 				<?= $Wcms->footer() ?>
 
-        <?= $Wcms->search() ?>
 			</div>
 		</footer>
 
