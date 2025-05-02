@@ -188,7 +188,7 @@ input::-moz-focus-inner {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 1em 1em 1em 1em
+		margin: 0.5em 1em 0.5em 1em
 	}
 		pre code {
 			display: block;
