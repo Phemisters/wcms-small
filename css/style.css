@@ -111,7 +111,7 @@ input::-moz-focus-inner {
 	}
 
 	p {
-		margin: 0 0 1em 0
+		margin: 0 0 0.5em 0
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -464,15 +464,6 @@ input::-moz-focus-inner {
 			}
 		}
 
-/* Intro */
-		#intro p {
-			font-size: 1.25em
-		}
-			@media screen and (max-width: 736px) {
-				#intro p {
-					font-size: 1em
-				}
-			}
 
 /* Footer */
 	footer {
