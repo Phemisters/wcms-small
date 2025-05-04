@@ -41,7 +41,7 @@ section, summary, time, mark, audio, video {
 
 html, body {
 	box-shadow: 0 0 200px rgba(0, 0, 0, 0.27) inset;
-	background-image: -webkit-linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
+	background-color: rgb(39, 194, 222);
 	min-height: 100%;
 	font-family: 'Catamaran';
 	color: #000 !important
@@ -96,13 +96,19 @@ input::-moz-focus-inner {
 		color: inherit;
 		text-decoration: none
 	}
-		a:hover {
-			border-bottom: solid 1px rgba(255, 255, 255, 0.88);
-			color: #ffffff
-		}
+
+  a:hover {
+    border-bottom: solid 1px rgba(255, 255, 255, 0.88);
+    color: #ffffff
+  }
+
+  a:visited {
+    color: forestgreen;
+    text-decoration-color: hotpink;
+  }
 
 	strong, b {
-		color: #ffffff;
+		color: rgb(102, 95, 238);
 		font-weight: bold
 	}
 
@@ -115,7 +121,7 @@ input::-moz-focus-inner {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: rgb(102, 95, 238);
 		font-weight: bold;
 		line-height: 1.5
 	}
@@ -188,7 +194,8 @@ input::-moz-focus-inner {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 0.5em 1em 0.5em 1em
+		margin: 0.5em 1em 0.5em 1em;
+    background-color: lightgray;
 	}
 		pre code {
 			display: block;
