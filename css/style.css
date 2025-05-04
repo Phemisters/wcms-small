@@ -554,11 +554,12 @@ input::-moz-focus-inner {
 		content: ''
 	}
 
-  .table-footer tr,td,th {
+  .table-footer td,th {
     border: none;
+    min-width: 33%;
   }
 
-  .table-footer table {
+  .table-footer {
     border: none;
     width: 100%;
   }
