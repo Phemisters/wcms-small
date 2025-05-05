@@ -648,3 +648,21 @@ input::-moz-focus-inner {
 		padding: 2px 4px;
 		border-radius: 3px;
 	}
+
+@media screen and (min-width: 600px) {
+  .home-div {
+    margin-left:1%;
+  }
+}
+@media screen and (min-width: 800px) {
+  .home-div
+  {
+    margin-left:10%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .home-div
+  {
+    margin-left:20%;
+  }
+}
