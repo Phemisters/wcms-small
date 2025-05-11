@@ -5,6 +5,6 @@ Based on the [Sky](https://github.com/robiso/sky) [Wonder CMS](https://www.wonde
 This is an _experimental_ theme.
 
 ## Preview
-![Theme preview](/preview.jpg)
+![Theme preview](/preview.png)
 
 
